@@ -21,5 +21,8 @@ Special words are not considered in this homework, such as chinese, or  #$%^ ...
 ### Optional
 You can try to analyse google or other websites.
 
-### Reference
+### Hint
+- You can use `input` to get input or define it directly.
+- Leave some comments if necessary
+- Make your naming meaningful
 - [String common usage](https://selflearningsuccess.com/pythonstring/)
