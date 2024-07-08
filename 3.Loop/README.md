@@ -40,3 +40,18 @@ Customer always request weird things, which may or may not be supported by your 
 - Output: `Sorry, we don't support that.`
 
 - Level will be limited from 1 to 9.
+
+### Optional:
+There is a rule in this matrix, and you should understand that and make it as a program.
+
+- Input: `Give me a level 5 special matrix.`
+- Output:
+```
+[
+    [1, 3, 8, 20, 48],
+    [0, 2, 5, 12, 28],
+    [0, 0, 3,  7, 16],
+    [0, 0, 0,  4,  9],
+    [0, 0, 0,  0,  5]
+]
+```
