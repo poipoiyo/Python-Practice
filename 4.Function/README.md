@@ -1,4 +1,4 @@
-# Loop
+# Function
 
 ## Homework
 Based on previous homework, you might have a team to develop the same product.
