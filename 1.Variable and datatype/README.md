@@ -13,10 +13,15 @@ Let's try to do it to youtube.com.
 
 <br>
 
-- Input: `https://www.youtube.com/results?search_query=YOASOBI+-+Idol`
+- Input: `youtube.com/results?search_query=YOASOBI+-+Idol`
 - Output: `YOASOBI - Idol`
+
+<br>
+
+- Input: `www.youtube.com/results?search_query=I+want+it+that+way`
+- Output: `I want it that way`
   
-Special words are not considered in this homework, such as chinese, or  #$%^ ...
+Special words are not considered in this homework, such as chinese, or +#$%^ ...
 
 ### Optional
 You can try to analyse google or other websites.
