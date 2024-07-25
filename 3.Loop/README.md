@@ -1,6 +1,6 @@
 # Loop
 
-## Homework
+## Homework 1
 Customer always request weird things, which may or may not be supported by your product.
 
 ### For example : 
@@ -41,9 +41,10 @@ Customer always request weird things, which may or may not be supported by your 
 
 - Level will be limited from 1 to 9.
 
-### Optional:
-There is a rule in this matrix, and you should understand that and make it as a program.
+## Homework 2
+Sometimes you might understand the logic first and make it as a program then.
 
+### For example
 - Input: `Give me a level 5 special matrix.`
 - Output:
 ```
@@ -55,3 +56,19 @@ There is a rule in this matrix, and you should understand that and make it as a 
     [0, 0, 0,  0,  5]
 ]
 ```
+
+## Optional
+How if the customer wants more loops, and it is hard to simplify that.
+Is there a better way to do that?
+
+### For example
+- Input: `Give me level 5 snake with 4 corners.`
+- Output:
+```
+5       5       5    
+ 4     4 4     4 4   
+  3   3   3   3   3  
+   2 2     2 2     2 
+    1       1       1
+```
+
