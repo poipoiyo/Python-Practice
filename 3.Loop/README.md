@@ -15,6 +15,7 @@ Customer always request weird things, which may or may not be supported by your 
 ```
 - Input: `Give me a level 5 tree.`
 - Output:
+- Note: level can only be odd(3, 5, 7, 9) for tree product
 ```
     1
    222
