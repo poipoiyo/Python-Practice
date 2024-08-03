@@ -11,7 +11,7 @@
 | 4 | Function | Lesson 9-10 | -- | 2 |
 | 5 | Module and package | Lesson 11-12 | -- | 2 |
 | 6 | File | Lesson 13 | -- | 2 | 
-| 7 | Practice 1 | | Lesson 36 | 3 |
+| 7 | Practice 1 | Lesson 36 | -- | 3 |
 | 8 | Algorithm | | -- | 2 |
 | 9 | Unit Test | | -- | 2 |
 | 10 | Class | Lession 16-18 | -- | 2 |
