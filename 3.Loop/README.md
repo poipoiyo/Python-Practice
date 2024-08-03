@@ -4,7 +4,7 @@
 Customer always request weird things, which may or may not be supported by your product.
 
 ### For example : 
-- Input: `Give a level 5 ladder.`
+- Input: `Give me a level 5 ladder.`
 - Output:
 ```
 1

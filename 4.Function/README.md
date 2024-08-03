@@ -10,7 +10,7 @@ Use function to help your assignment.
 Your program should support the same input/output as previous homework.
 Besides, you should also support a wider version.
 
-- Input: `Give a wide level 5 ladder.`
+- Input: `Give me a wide level 5 ladder.`
 - Output:
 ```
 1-1
