@@ -15,4 +15,4 @@
 | 8 | Algorithm | | -- | 2 |
 | 9 | Unit Test | | -- | 2 |
 | 10 | Class | Lession 16-18 | -- | 2 |
-| 11 | Practice 2 | -- | 3 |
+| 11 | Practice 2 | | -- | 3 |
