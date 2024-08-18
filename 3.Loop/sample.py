@@ -32,6 +32,19 @@ print("\n----- sample 4 -----")
 x = [i+2 for i in range(5)]
 print(x)
 
+# all , any
+print("\n----- sample 5 -----")
+x = [s == "summer" for s in seasons]
+if any(x):
+    print("There is summer in list seasons.")
+else:
+    print("There is no summer in list seasons.")
+
+if all(x):
+    print("There are all summers in list seasons.")
+else:
+    print("There are not all summers in list seasons.")
+
 
 
 
