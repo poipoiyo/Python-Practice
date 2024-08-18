@@ -6,6 +6,7 @@ They will collect orders by different customers, and place them into `.\orders`.
 You should read all of them and place them into `.\products`.
 
 ## Example
+```
 |--main.py
 |--orders
 |  |--Amy_20240101.txt
@@ -21,6 +22,7 @@ You should read all of them and place them into `.\products`.
    |--Ladder.txt
    |--Tree.txt
    |--LetterV.txt
+```
 
 # Optional
 Can you display more information at products?
