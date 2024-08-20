@@ -20,6 +20,21 @@ Besides, you should also support a wider version.
 5-55555
 ```
 
+- Input: `Give me wide level 5 tree.`
+- Output:
+```
+    1
+   222
+  33333
+ 4444444
+555555555
+   555
+   444
+   333
+   222
+   111
+``` 
+
 - Input: `Give me wide level 5 V.`
 - Output:
 ```
