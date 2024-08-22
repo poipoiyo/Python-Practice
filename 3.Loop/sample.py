@@ -1,5 +1,5 @@
 # check flag
-print("----- sample 1 -----\n")
+print("----- sample 1 -----")
 i = 1
 while i < 5:
     # The condition you want to find

@@ -6,8 +6,10 @@ Let's practice to separate them into different files.
 When your teammate do git commit, it will be more obvious at file changing.
 
 ## Example
+```
 --main.py
  |--Ladder.py
  |--Tree.py
  |--LetterV.py
  ...
+ ```
