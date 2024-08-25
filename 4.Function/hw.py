@@ -16,25 +16,38 @@ youtube_keyword = "youtube.com"
 baha_keyword = "ani.gamer.com.tw"
 _url_encode_dict = {'%2B': '+', '%2A': '*','%25': '%'}
 
+
+def decode_youtube(s: str)->str:
+    s = s.partition('=')[-1].replace('+', ' ')
+    for key in _url_encode_dict:
+        s = s.replace(key, _url_encode_dict[key])
+    return s
+
+
+def decode_baha(s: str)->str:
+    s = s.partition('=')[-1].replace('+', ' ')
+    for key in _url_encode_dict:
+        s = s.replace(key, _url_encode_dict[key])
+    return s
+
+
+def check_answer(ans: str, ex_ans:str)->None:
+    print("Answer : ", ans)
+
+    _check = "correct" if ans == ex_ans else "wrong"
+    print("The answer is %s! \n" % _check)
+
+
 for sample in samples:
-    _input = sample[0]
-    _expect_output = sample[1]
-    _answer = ""
+    _input, _expect_output = sample
     print("Input : ", _input)
     print("Expect out : ", _expect_output)
 
     if youtube_keyword in _input:
-        _answer = _input.partition('=')[-1].replace('+', ' ')
-        for key in _url_encode_dict:
-            _answer = _answer.replace(key, _url_encode_dict[key])
-
+        _answer = decode_youtube(_input)
     elif baha_keyword in _input:
-        _answer = _input.partition('=')[-1].replace('+', ' ')
-        for key in _url_encode_dict:
-            _answer = _answer.replace(key, _url_encode_dict[key])
+        _answer = decode_baha(_input)
 
-    print("Answer : ", _answer)
-
-    _check = "correct" if _answer == _expect_output else "wrong"
-    print("The answer is %s! \n" % _check)
+    check_answer(_answer, _expect_output)
+    
 
