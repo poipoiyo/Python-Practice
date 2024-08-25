@@ -12,7 +12,7 @@
 | 5 | Module and package | Lesson 11-12 | -- | 1 |
 | 6 | File | Lesson 13 | -- | 2 | 
 | 7 | Practice 1 | Lesson 14,36 | -- | 3 |
-| 8 | Algorithm | | -- | 2 |
-| 9 | Unit Test | | -- | 2 |
+| 8 | Algorithm | [link](https://github.com/poipoiyo/Python-Practice/tree/main/8.Algorithm) | -- | 2 |
+| 9 | Unit Test | [link](https://github.com/poipoiyo/Python-Practice/tree/main/9.Unit%20Test) | -- | 2 |
 | 10 | Class | Lession 16-18 | -- | 2 |
 | 11 | Practice 2 | | -- | 3 |
