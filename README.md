@@ -8,9 +8,9 @@
 | 1 | Variable and datatype | Lesson 2-5 | 20240729 | 3 |
 | 2 | If else | Lesson 6 | 20240822 | 1 |
 | 3 | Loop | Lesson 7-8 | 20240822 | 2 |
-| 4 | Function | Lesson 9-10 | -- | 2 |
-| 5 | Module and package | Lesson 11-12 | -- | 1 |
-| 6 | File | Lesson 13 | -- | 2 | 
+| 4 | Function | Lesson 9-10 | 20240912 | 2 |
+| 5 | Module and package | Lesson 11-12 | 20240912 | 1 |
+| 6 | File | Lesson 13 | -- | 3 | 
 | 7 | Practice 1 | Lesson 14,36 | -- | 3 |
 | 8 | Algorithm | [link](https://github.com/poipoiyo/Python-Practice/tree/main/8.Algorithm) | -- | 2 |
 | 9 | Unit Test | [link](https://github.com/poipoiyo/Python-Practice/tree/main/9.Unit%20Test) | -- | 2 |
