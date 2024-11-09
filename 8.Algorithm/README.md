@@ -52,6 +52,6 @@ Tom's average is 68.
 ```
 1. [Jade, 83]
 2. [Jhon, 82]
-2. [Tom, 68]
+3. [Tom, 68]
 ```
 
