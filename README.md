@@ -10,9 +10,9 @@
 | 3 | Loop | Lesson 7-8 | 20240822 | 2 |
 | 4 | Function | Lesson 9-10 | 20240912 | 2 |
 | 5 | Module and package | Lesson 11-12 | 20240912 | 1 |
-| 6 | File | Lesson 13 | -- | 3 | 
-| 7 | Practice 1 | Lesson 14,36 | -- | 3 |
+| 6 | File | Lesson 13 | 20240925 | 3 | 
+| 7 | Practice 1 | Lesson 14,36 | 20241023 | 3 |
 | 8 | Algorithm | [link](https://github.com/poipoiyo/Python-Practice/tree/main/8.Algorithm) | -- | 2 |
 | 9 | Unit Test | [link](https://github.com/poipoiyo/Python-Practice/tree/main/9.Unit%20Test) | -- | 2 |
 | 10 | Class | Lession 16-18 | -- | 2 |
-| 11 | Practice 2 | | -- | 3 |
+
