@@ -5,7 +5,7 @@ Gray: AC
 Robin: AADA
 Jefferson: DBA
 Taylor: C
-Robin: DEFE
+Robin: DEFC
 Jefferson: DA
 Jefferson: FD
 Joyce: AAFC
@@ -15,7 +15,7 @@ Taylor: DF
 Emily: FFDF
 Gray: DEFA
 Gray: ABEA
-Emily: CAE
+Emily: CC
 Taylor: DFF
 Clements: FBBA
 Joyce: CAAFD

@@ -36,8 +36,25 @@ You should list their products together, and how much they should pay.
 ### Output :
 Take robin's billing:
 ```
-Robin: AABBA
-Robin: BBAC
-Robin: A
+Robin: BB
+Robin: AADA
+Robin: DEFC
 ```
 
+```
+For 1st bill, 2 purses will take 2 pens, and get 85% discount.
+
+=> (350 + 350) * 0.85 = $595
+
+For 2nd bill, 2 free pen, a fork, and a pen.
+
+=> 150 + 10 = $160
+
+For 3rd bill, a fork, a candy, get a $70 tooth brush, and a key chain
+
+=> 150 + 50 + 70 + 100 = $370
+```
+
+```
+=> Robin: $1125
+```
