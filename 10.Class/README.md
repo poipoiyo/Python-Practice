@@ -56,5 +56,5 @@ For 3rd bill, a fork, a candy, get a $70 tooth brush, and a key chain
 ```
 
 ```
-=> Robin: $1125
+=> Robin: 3A2B1C2D1E1F $1125
 ```
