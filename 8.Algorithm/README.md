@@ -45,7 +45,7 @@ Tom takes only one class and gets [X, 68, X] points.
 Tom's average is 68.
 
 ### Input :
-- `scores.txt` with all student's score.
+- `scores.txt`: score for all student's.
 
 ### Output :
 - `ranking.txt` to list their ranking, name, average
