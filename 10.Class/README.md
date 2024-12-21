@@ -8,7 +8,7 @@ class Player():
   def __init__(self, name):
     self.name = name
     self.score = 0
-  def who(self):
+  def getName(self):
     return self.name
   def getScore(self):
     return self.score
@@ -24,8 +24,10 @@ class Game:
 ```
 
 ## Homework
-You are handling a billing system. 
+You are handling a billing system.
+
 Customer will send their orders to systems.
+
 You should list their products together, and how much they should pay.
 
 ### Input :
@@ -34,7 +36,7 @@ You should list their products together, and how much they should pay.
 - `record.txt`: logs from system
 
 ### Output :
-Take robin's billing:
+Take Robin's billing:
 ```
 Robin: BB
 Robin: AADA
