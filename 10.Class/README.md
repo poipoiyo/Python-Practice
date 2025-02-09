@@ -48,9 +48,9 @@ For 1st bill, 2 purses will take 2 pens, and get 85% discount.
 
 => (350 + 350) * 0.85 = $595
 
-For 2nd bill, 2 free pen, a fork, and a pen.
+For 2nd bill, 3 pen, a fork.
 
-=> 150 + 10 = $160
+=> 30 + 150 = $180
 
 For 3rd bill, a fork, a candy, get a $70 tooth brush, and a key chain
 
@@ -58,5 +58,5 @@ For 3rd bill, a fork, a candy, get a $70 tooth brush, and a key chain
 ```
 
 ```
-=> Robin: 3A2B1C2D1E1F $1125
+=> Robin: 5A2B1C2D1E1F $1145 (Additional free pen included.)
 ```
